@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="label_new_task">Criar Tarefa</string>
+    <string name="label_title">Título</string>
+    <string name="label_tasks">Tarefas</string>
+    <string name="label_description_new_task">Nova Tarefa</string>
+    <string name="action_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_none_tasks">Ops! Você não possui\nnenhuma tarefa</string>
+</resources>
